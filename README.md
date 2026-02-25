@@ -8,15 +8,14 @@
 ## 🚀 Sobre mí
 - Actualmente estudiando **DAM** (finalización prevista 2026).  
 - Experiencia previa de más de 5 años en entornos profesionales exigentes.  
-- Busco **prácticas en desarrollo de software** para aplicar y ampliar mis conocimientos.  
 - Apasionado por la **resolución de problemas** y el **aprendizaje continuo**.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
-- **Lenguajes:** Java, SQL  
+- **Lenguajes:** Java, Python, JavaScript.
 - **Bases de datos:** MySQL  
-- **Herramientas:** IntelliJ IDEA, Eclipse, Git, GitHub  
+- **Herramientas:** IntelliJ IDEA, Eclipse, Git.
 - **Otros:** POO, metodologías ágiles, Cloud Computing  
 
 ---
@@ -26,7 +25,6 @@
   CRUD en consola con persistencia en archivo CSV. Permite crear, listar, actualizar y eliminar tareas.  
   **Tecnologías:** Java 17, Git, CSV  
 
-*(Próximamente añadiré más proyectos en Java con MySQL, JSON y JavaFX.)*
 
 ---
 
