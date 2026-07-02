@@ -1,30 +1,23 @@
 # 👋 Hola, soy Ángel Durán Gómez
 
-🎯 **Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-📍 Madrid | 📧 [angeldurangomez@hotmail.com](mailto:angeldurangomez@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/angel-duran-gomez)
+🎯  **Desarrollador de Aplicaciones Multiplataforma (DAM)**  
+📍 Madrid | 📧 [karkhu@hotmail.es](mailto:karkhu@hotmail.es) | [LinkedIn](https://www.linkedin.com/in/angel-duran-gomez)
 
 ---
 
 ## 🚀 Sobre mí
-- Actualmente estudiando **DAM** (finalización prevista 2026).  
+- Actualmente trabajo en Indra como desarrollador.  
 - Experiencia previa de más de 5 años en entornos profesionales exigentes.  
 - Apasionado por la **resolución de problemas** y el **aprendizaje continuo**.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
-- **Lenguajes:** Java, Python, JavaScript.
-- **Bases de datos:** MySQL  
-- **Herramientas:** IntelliJ IDEA, Eclipse, Git.
+- **Lenguajes:** Java, Python, JavaScript, NATURAL.
+- **Bases de datos:** MySQL, ADABAS.
+- **Herramientas:** IntelliJ IDEA, Visual Studio Code, Eclipse, Git.
+- **IA:** Copilot, Cloude, Gemini, Cursor
 - **Otros:** POO, metodologías ágiles, Cloud Computing  
-
----
-
-## 📌 Proyectos destacados
-- [**Gestor de Tareas (Java + CSV)**](https://github.com/ANGELDG-94/Gestor-de-tareas)  
-  CRUD en consola con persistencia en archivo CSV. Permite crear, listar, actualizar y eliminar tareas.  
-  **Tecnologías:** Java 17, Git, CSV  
-
 
 ---
 
